@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  breed_id: 1
+  owner_id: 1
+  name: MyString
+
+two:
+  breed_id: 1
+  owner_id: 1
+  name: MyString

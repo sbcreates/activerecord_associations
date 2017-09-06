@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner_id: 1
+  vet_id: 1
+  date: 2017-09-06 13:43:04
+
+two:
+  owner_id: 1
+  vet_id: 1
+  date: 2017-09-06 13:43:04
